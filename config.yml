@@ -1,0 +1,7 @@
+Connection:
+          web_hook_url: ''
+          application_id: ''
+          redirct_bot_id: ''
+database:
+     usr_url: ''
+     usr_pass: ''
